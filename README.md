@@ -31,12 +31,6 @@ npm run dev
 
 Ardından tarayıcınızda `http://localhost:5173` adresini açın.
 
-## Proje Paylaşımı ve Açık Kaynak
-
-Bu proje GitHub üzerinde açık bir depo olarak paylaşılmak için uygundur. Projeyi herkese açık hale getirip README dosyasını güncel tutarak diğer geliştiricilerin ve ziyaretçilerin projeyi incelemesini sağlayabilirsiniz.
-
-> Not: Projeyi paylaşmadan önce kişisel içerikleri (e-posta, telefon numarası vb.) gerektiği şekilde kontrol edin.
-
 ## Özelleştirme
 
 - `src/data/siteContent.js` dosyasından içerik, metin ve proje bilgilerini düzenleyebilirsiniz.
